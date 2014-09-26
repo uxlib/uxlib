@@ -1,0 +1,18 @@
+[submodule "docs/api"]
+	path = docs/api
+	url = https://github.com/uxlib/api.git
+[submodule "docs/guides"]
+	path = docs/guides
+	url = https://github.com/uxlib/guides.git
+[submodule "templates"]
+	path = templates
+	url = https://github.com/uxlib/templates.git
+[submodule "examples"]
+	path = examples
+	url = https://github.com/uxlib/examples.git
+[submodule "externals/packages"]
+	path = externals/packages
+	url = https://github.com/uxlib/packages.git
+[submodule "externals/gpm"]
+	path = externals/gpm
+	url = https://github.com/uxlib/gpm.git
