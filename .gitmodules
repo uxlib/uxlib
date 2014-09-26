@@ -1,6 +1,3 @@
-[submodule "docs/api"]
-	path = docs/api
-	url = https://github.com/uxlib/api.git
 [submodule "docs/guides"]
 	path = docs/guides
 	url = https://github.com/uxlib/guides.git
@@ -16,3 +13,6 @@
 [submodule "externals/gpm"]
 	path = externals/gpm
 	url = https://github.com/uxlib/gpm.git
+[submodule "docs/api"]
+	path = docs/api
+	url = https://github.com/uxlib/api.git
