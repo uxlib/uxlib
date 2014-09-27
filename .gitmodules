@@ -10,14 +10,10 @@
 	path = examples
 	url = https://github.com/uxlib/examples.git
 
-[submodule "externals/packages"]
-	path = externals/packages
-	url = https://github.com/uxlib/packages.git
-
-[submodule "externals/gpm"]
-	path = externals/gpm
-	url = https://github.com/uxlib/upm.git
-
 [submodule "templates"]
 	path = templates
 	url = https://github.com/uxlib/templates.git
+	
+[submodule "tools/upm"]
+	path = tools/upm
+	url = https://github.com/uxlib/upm.git
