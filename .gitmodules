@@ -14,8 +14,8 @@
 	path = externals/packages
 	url = https://github.com/uxlib/packages.git
 
-[submodule "externals/upm"]
-	path = externals/upm
+[submodule "externals/gpm"]
+	path = externals/gpm
 	url = https://github.com/uxlib/upm.git
 
 [submodule "templates"]
