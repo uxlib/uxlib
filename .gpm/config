@@ -1,6 +1,6 @@
 {
   "name": "uxlib",
-  "git": "https://github.com/uxlib/sdk.git",
+  "git": "https://github.com/uxlib/uxlib.git",
   "type": "project",
   "allowHosts": true,
   "allowMappings": true,
